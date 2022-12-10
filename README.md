@@ -1,6 +1,6 @@
-# 代码分享（⚠️ 请仔细看说明）
+# 代码分享（<strong style="color:red;">⚠️ 请仔细看下方说明</strong>）
 
-## ‼️ 下载代码
+## <strong style="color:red;">!!</strong> 下载代码
 ![点击右上角下载代码压缩包](WechatIMG397.jpeg)
 
 ## 教程视频请看👀 ⬇️ ⬇️
