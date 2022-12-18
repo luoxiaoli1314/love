@@ -1,4 +1,4 @@
-# 代码分享（<strong style="color:red;">⚠️ 请仔细看下方说明</strong>）
+# 代码分享（<strong style="color:red;">⚠️ 请下载代码后再修改</strong>）
 
 ## <strong style="color:red;">!!</strong> 下载代码
 ![点击右上角下载代码压缩包](WechatIMG397.jpeg)
